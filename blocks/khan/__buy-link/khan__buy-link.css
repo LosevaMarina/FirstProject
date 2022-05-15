@@ -2,7 +2,7 @@
   font-size: 30px;
   line-height: 42px;
   color: #2f80ed;
-  height: 35px;
+  align-self: flex-start;
   text-decoration: none;
   opacity: 1;
   transition: opacity 0.2s linear 0.1s;
